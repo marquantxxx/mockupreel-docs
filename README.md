@@ -38,7 +38,7 @@ While this repository serves as a public showcase and issue tracker, the core of
 
 As a developer and designer, Sylvester built Mockupreel to bridge the gap between complex animation software and simple static mockup tools, providing an accessible, professional-grade video export tool for the modern web.
 
-- **Twitter / X:** [@YourTwitterHandle](https://x.com/king_marquant) 
+- **Twitter / X:** [Sylvester Marquant](https://x.com/king_marquant) 
 - **GitHub:** [marquantxxx](https://github.com/marquantxxx)
 
 ---
