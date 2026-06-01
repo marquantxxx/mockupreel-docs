@@ -9,6 +9,10 @@
 
 ---
 
+
+https://github.com/user-attachments/assets/c2df20ef-2c97-4a21-afe3-02f1fbed24e0
+
+
 ## 📖 Overview
 
 Creating professional video mockups for apps, websites, and digital products often requires downloading heavy desktop software or navigating complex rendering engines. Mockupreel solves this by bringing hardware-accelerated video rendering and device framing directly into the browser. 
